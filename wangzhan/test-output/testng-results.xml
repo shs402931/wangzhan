@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81" started-at="2019-03-12T08:42:50Z" finished-at="2019-03-12T08:42:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81" started-at="2019-03-12T08:42:50Z" finished-at="2019-03-12T08:42:50Z">
+      <class name="com.test.login.common.TtTest">
+        <test-method status="PASS" signature="f([Ljava.lang.String;)[pri:0, instance:com.test.login.common.TtTest@6f7fd0e6]" name="f" duration-ms="22" started-at="2019-03-12T16:42:50Z" data-provider="f" finished-at="2019-03-12T16:42:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2b552920]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f([Ljava.lang.String;)[pri:0, instance:com.test.login.common.TtTest@6f7fd0e6]" name="f" duration-ms="3" started-at="2019-03-12T16:42:50Z" data-provider="f" finished-at="2019-03-12T16:42:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2758fe70]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.test.login.common.TtTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
